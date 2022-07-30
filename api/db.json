@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Hello",
+      "description": "This is my first stream",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This is another stream",
+      "id": 2
+    },
+    {
+      "title": "Third Stream",
+      "description": "This is test",
+      "id": 3
+    },
+    {
+      "title": "Burak's Stream",
+      "description": "Willkommen bei meinem neuen Stream!",
+      "userId": "104306616593635268341",
+      "id": 4
+    },
+    {
+      "title": "My Last Stream",
+      "description": "This is the last stream I create before I go to the next section in the course",
+      "userId": "104306616593635268341",
+      "id": 6
+    }
+  ]
+}
